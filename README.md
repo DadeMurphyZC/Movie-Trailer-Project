@@ -1,13 +1,13 @@
 
-#Movie Trailer Project
+# Movie Trailer Project
 This project was created as part of the Udacity FullStack Nanodegree.
 
-###To run this project
+### To run this project
 Please download this repo to your local system and run index.html in the browser of your choice.
 You may also visit the live GitHub Pages hosted demo at:
 **[https://dademurphyzc.github.io/Movie-Trailer-Project/](https://dademurphyzc.github.io/Movie-Trailer-Project/)**
 
-###Design concepts used include:
+### Design concepts used include:
 
  - OOP in Python 2.7 
  - Classes and constructors 
