@@ -3,7 +3,13 @@
 This project was created as part of the Udacity FullStack Nanodegree.
 
 ### To run this project
-Please download this repo to your local system and run index.html in the browser of your choice.
+Make sure Python 2.7 is installed
+Download a copy of this repo to your local system.
+In Windows:
+Either right-click on entertainment_center.py and select open.
+Or right-click on entertainment_center.py and select Edit with IDLE, then press F5 to Run the module.
+An HTML file will be generated and opened in your default web browser.
+
 You may also visit the live GitHub Pages hosted demo at:
 **[https://dademurphyzc.github.io/Movie-Trailer-Project/](https://dademurphyzc.github.io/Movie-Trailer-Project/)**
 
